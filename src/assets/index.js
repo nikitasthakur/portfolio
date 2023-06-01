@@ -20,15 +20,16 @@ import redux from "./tech/redux.png";
 import tailwind from "./tech/tailwind.png";
 import typescript from "./tech/typescript.png";
 import threejs from "./tech/threejs.svg";
+import accenture from "./company/accenture.png";
+import slalom from "./company/slalom.png";
+import uic from "./company/uic.png";
 
-import meta from "./company/meta.png";
-import shopify from "./company/shopify.png";
-import starbucks from "./company/starbucks.png";
-import tesla from "./company/tesla.png";
-
-import carrent from "./carrent.png";
-import jobit from "./jobit.png";
-import tripguide from "./tripguide.png";
+import cvd from "./cvd.png";
+import portfolio from "./portfolio.png";
+import mychart from "./mychart.png";
+import posture from "./posture.png";
+import chicagocrime from "./chicagocrime.png";
+import pc from "./pc.png"
 
 export {
   logo,
@@ -52,11 +53,13 @@ export {
   tailwind,
   typescript,
   threejs,
-  meta,
-  shopify,
-  starbucks,
-  tesla,
-  carrent,
-  jobit,
-  tripguide,
+  uic,
+  slalom,
+  accenture,
+  cvd,
+  portfolio,
+  mychart,
+  chicagocrime,
+  posture,
+  pc
 };

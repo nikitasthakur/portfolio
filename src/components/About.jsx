@@ -42,7 +42,7 @@ const About = () => {
     variants={fadeIn("", "", 0.1, 1)}
     className='mt-4 text-secondary text-[17px] max-w-3xl leading-[30px]'
     >
-      I'm a highly skilled Full Stack Developer with a Master of Science in Computer Science from the University of Illinois at Chicago and over 4 years of experience in software development. Proficient in Python, Java, Ruby, C++, and R with a strong understanding of front-end technologies such as React JS, JavaScript, HTML5, and CSS. Experienced in using TensorFlow, PyTorch, Django, React Native, and Android app development. Demonstrated ability to work in a fast-paced Agile SCRUM environment and deliver high-quality software solutions.
+      I'm a highly skilled Full Stack Developer with a Master of Science in Computer Science from the University of Illinois at Chicago and over 4 years of experience in software development. I'm proficient in Python, Java, Ruby, C++, and R with a strong understanding of front-end technologies such as React JS, JavaScript, HTML5, and CSS. I'm experienced in using TensorFlow, PyTorch, Django, React Native, and Android app development. I have demonstrated ability to work in a fast-paced Agile SCRUM environment and deliver high-quality software solutions.
     </motion.p>
 
     <div className='mt-20 flex flex-wrap gap-10'>
